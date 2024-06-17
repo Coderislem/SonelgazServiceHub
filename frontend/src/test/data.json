@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "profileImage": null,
+      "createdAt": "2024-05-21 18:16:40",
+      "Email": "john.doe@example.com",
+      "password": "password123",
+      "firsName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "profileImage": null,
+      "createdAt": "2024-05-21 18:16:40",
+      "Email": "jane.smith@example.com",
+      "password": "abc123",
+      "firsName": "Jane",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "profileImage": null,
+      "createdAt": "2024-05-21 18:16:40",
+      "Email": "bob.johnson@example.com",
+      "password": "pass1234",
+      "firsName": "Bob",
+      "lastName": "Johnson"
+    },
+  
+    {
+      "id": 5,
+      "profileImage": null,
+      "createdAt": "2024-05-21 18:16:40",
+      "Email": "merwanbehalil@gmail.com",
+      "password": "qwerty",
+      "firsName": "marwan",
+      "lastName": "behalil"
+    }
+  ]

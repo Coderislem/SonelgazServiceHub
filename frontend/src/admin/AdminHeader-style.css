@@ -1,0 +1,58 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.cta-btn {
+    background-color: #fff;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mobile-header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.mobile-header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.menu-toggle {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.mobile-nav {
+    display: none;
+}
+
+.mobile-nav.open {
+    display: block;
+}
+
